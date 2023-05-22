@@ -13,7 +13,7 @@ This repository contains the CSS styling for a responsive portfolio website, fea
 
 ## How to use
 
-1. Download or clone this repository to your local machine using `https://github.com/your-repo-link.git`
+1. Download or clone this repository to your local machine using `(https://github.com/DeanNunis1/Portfolio-Website.git)`
 2. Open the project in your preferred code editor.
 3. To view the site, use the Live Server extension in Visual Studio Code or a similar feature in other editors.
 4. Replace the placeholder images and links in the HTML files with your own images and URLs to customize the portfolio.
